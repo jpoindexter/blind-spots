@@ -7,7 +7,7 @@ description: "Use when evidence seems to confirm an existing belief, when resear
 
 ## Overview
 
-Lord, Lepper & Preston (1984, *JPSP*): telling people to "be unbiased and objective" does **nothing** — biased assimilation of evidence continues unchanged. But one instruction reliably works: "**ask yourself at each step whether you would have made the same evaluation had exactly the same study produced results on the other side of the issue.**" Generating the opposite case isn't a virtue exercise; it mechanically forces retrieval of evidence and interpretations your confirmation-driven search skipped (Wason, 1960: people test hypotheses by seeking confirming instances by default).
+Lord, Lepper & Preston (1984, *JPSP*): telling people to "be unbiased and objective" does **nothing** — biased assimilation of evidence continues unchanged. But one instruction reliably works: "**ask yourself at each step whether you would have made the same high or low evaluations had exactly the same study produced results on the other side of the issue.**" Generating the opposite case isn't a virtue exercise; it mechanically forces retrieval of evidence and interpretations your confirmation-driven search skipped (Wason, 1960: people test hypotheses by seeking confirming instances by default).
 
 **Objectivity is not a stance you adopt; it's a specific counterfactual you compute.**
 
