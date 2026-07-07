@@ -66,7 +66,7 @@ Each skill is a folder containing a single self-contained `SKILL.md` with YAML f
 
 - **Install path executed, not assumed**: `npx skills add` run against this repo — 17/17 skills found and installed (strict-YAML frontmatter validated with PyYAML; an earlier version lost 6 skills to unquoted colons in descriptions).
 - **Behavior-tested**: the `blind` dispatcher and a 3-skill sample (falsification, outside-view, chestertons-fence) were run by fresh agents against realistic scenarios; the gaps they hit (routing tie-breaks, severity rubric, no-history fallback) are fixed in the current version.
-- **Citations under external fact-check**: every named study and numeric figure is being verified against primary sources; corrections land as individual commits.
+- **Citations externally fact-checked**: all 27 named studies, figures, and historical anecdotes verified against primary sources — 20 held as written, 7 corrected (exact quotes, calibration figures, and legend-vs-documented framing for the Wald and "tenth man" stories), 0 fabricated.
 
 ## Design notes
 
