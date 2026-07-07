@@ -1,6 +1,6 @@
 ---
 name: blind-unknown-unknowns
-description: Use when scoping a project, entering an unfamiliar domain, writing a risk register, estimating novel work, or when a plan lists only risks the planner already thought of. Applies the knowledge matrix (known/unknown × known/unknown) popularized via Rumsfeld 2002, rooted in the Johari Window.
+description: "Use when scoping a project, entering an unfamiliar domain, writing a risk register, estimating novel work, or when a plan lists only risks the planner already thought of. Applies the knowledge matrix (known/unknown × known/unknown) popularized via Rumsfeld 2002, rooted in the Johari Window."
 ---
 
 # Unknown Unknowns

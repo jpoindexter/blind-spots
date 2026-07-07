@@ -1,6 +1,6 @@
 ---
 name: blind-chestertons-fence
-description: Use before deleting code, removing a check, simplifying a process, dropping a config flag, or removing anything that "serves no purpose" — especially in unfamiliar or legacy systems. Applies Chesterton's Fence (G.K. Chesterton, 1929): don't remove it until you know why it's there.
+description: "Use before deleting code, removing a check, simplifying a process, dropping a config flag, or removing anything that \"serves no purpose\" — especially in unfamiliar or legacy systems. Applies Chesterton's Fence (G.K. Chesterton, 1929): don't remove it until you know why it's there."
 ---
 
 # Chesterton's Fence

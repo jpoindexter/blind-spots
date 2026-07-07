@@ -1,6 +1,6 @@
 ---
 name: blind-curse-of-knowledge
-description: Use when writing docs, error messages, onboarding, tutorials, API designs, UX copy, or teaching — or when something you built seems self-explanatory. Applies the curse of knowledge (Camerer, Loewenstein & Weber 1989; Newton's tappers-and-listeners 1990): expertise makes you unable to simulate not-knowing.
+description: "Use when writing docs, error messages, onboarding, tutorials, API designs, UX copy, or teaching — or when something you built seems self-explanatory. Applies the curse of knowledge (Camerer, Loewenstein & Weber 1989; Newton's tappers-and-listeners 1990): expertise makes you unable to simulate not-knowing."
 ---
 
 # Curse of Knowledge

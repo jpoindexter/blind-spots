@@ -1,6 +1,6 @@
 ---
 name: blind-premortem
-description: Use before committing to a plan, launch, migration, deploy, estimate, or architecture — especially when the team is confident and aligned. Applies Gary Klein's premortem (prospective hindsight): assume the plan already failed, then explain why.
+description: "Use before committing to a plan, launch, migration, deploy, estimate, or architecture — especially when the team is confident and aligned. Applies Gary Klein's premortem (prospective hindsight): assume the plan already failed, then explain why."
 ---
 
 # Premortem

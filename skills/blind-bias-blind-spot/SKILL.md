@@ -1,6 +1,6 @@
 ---
 name: blind-bias-blind-spot
-description: Use when tempted to say "I'm being objective", when attributing others' views to bias while trusting your own introspection, or after learning about a bias and concluding it doesn't apply to you. Applies Pronin, Lin & Ross (2002) — the bias blind spot and the introspection illusion.
+description: "Use when tempted to say \"I'm being objective\", when attributing others' views to bias while trusting your own introspection, or after learning about a bias and concluding it doesn't apply to you. Applies Pronin, Lin & Ross (2002) — the bias blind spot and the introspection illusion."
 ---
 
 # Bias Blind Spot

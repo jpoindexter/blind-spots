@@ -1,6 +1,6 @@
 ---
 name: blind-calibration
-description: Use when stating confidence ("I'm sure", "definitely", "99%"), giving confidence intervals, making probabilistic claims, or reviewing a track record of predictions. Applies overconfidence calibration research (Lichtenstein & Fischhoff; Alpert & Raiffa) — subjective certainty systematically exceeds accuracy.
+description: "Use when stating confidence (\"I'm sure\", \"definitely\", \"99%\"), giving confidence intervals, making probabilistic claims, or reviewing a track record of predictions. Applies overconfidence calibration research (Lichtenstein & Fischhoff; Alpert & Raiffa) — subjective certainty systematically exceeds accuracy."
 ---
 
 # Calibration

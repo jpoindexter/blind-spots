@@ -1,6 +1,6 @@
 ---
 name: blind-falsification
-description: Use when testing a hypothesis, debugging, validating a fix, designing experiments or test suites, or when checks keep passing. Applies Popper's falsification and Wason's 2-4-6 task — a test that can't fail isn't a test, and confirming instances prove little.
+description: "Use when testing a hypothesis, debugging, validating a fix, designing experiments or test suites, or when checks keep passing. Applies Popper's falsification and Wason's 2-4-6 task — a test that can't fail isn't a test, and confirming instances prove little."
 ---
 
 # Falsification

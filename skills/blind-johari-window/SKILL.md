@@ -1,6 +1,6 @@
 ---
 name: blind-johari-window
-description: Use when assessing self-knowledge, team dynamics, personal strengths/weaknesses, "how do others see this", or when someone is confident about themselves without external input. Applies the Johari Window (Luft & Ingham, 1955) to locate what others see that you cannot.
+description: "Use when assessing self-knowledge, team dynamics, personal strengths/weaknesses, \"how do others see this\", or when someone is confident about themselves without external input. Applies the Johari Window (Luft & Ingham, 1955) to locate what others see that you cannot."
 ---
 
 # Johari Window

@@ -1,6 +1,6 @@
 ---
 name: blind-inversion
-description: Use when a problem is stuck when approached directly, when defining success criteria, when designing for reliability/safety, or when a goal is vague ("make it good"). Applies Jacobi's inversion as practiced by Charlie Munger — solve problems backward: avoid the failure instead of chasing the success.
+description: "Use when a problem is stuck when approached directly, when defining success criteria, when designing for reliability/safety, or when a goal is vague (\"make it good\"). Applies Jacobi's inversion as practiced by Charlie Munger — solve problems backward: avoid the failure instead of chasing the success."
 ---
 
 # Inversion

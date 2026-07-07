@@ -1,6 +1,6 @@
 ---
 name: blind-consider-the-opposite
-description: Use when evidence seems to confirm an existing belief, when research keeps agreeing with the hypothesis, when interpreting ambiguous data, or when a first explanation feels satisfying. Applies Lord, Lepper & Preston (1984) — the one debiasing instruction shown to work: consider the opposite.
+description: "Use when evidence seems to confirm an existing belief, when research keeps agreeing with the hypothesis, when interpreting ambiguous data, or when a first explanation feels satisfying. Applies Lord, Lepper & Preston (1984) — the one debiasing instruction shown to work: consider the opposite."
 ---
 
 # Consider the Opposite

@@ -1,6 +1,6 @@
 ---
 name: blind-red-team
-description: Use when a group or a single reasoner has reached consensus quickly, when reviewing a plan everyone likes, when unanimous agreement appears, or when security/robustness of a design must be tested. Applies institutionalized dissent — red teaming, devil's advocacy, and the Israeli "tenth man" doctrine.
+description: "Use when a group or a single reasoner has reached consensus quickly, when reviewing a plan everyone likes, when unanimous agreement appears, or when security/robustness of a design must be tested. Applies institutionalized dissent — red teaming, devil's advocacy, and the Israeli \"tenth man\" doctrine."
 ---
 
 # Red Team / Tenth Man

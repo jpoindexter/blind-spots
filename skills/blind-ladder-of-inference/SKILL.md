@@ -1,6 +1,6 @@
 ---
 name: blind-ladder-of-inference
-description: Use when a conclusion feels obvious, when debugging why two people see the same facts differently, when "clearly" or "obviously" appears in reasoning, or when tracing how a belief was formed from raw data. Applies Chris Argyris's Ladder of Inference.
+description: "Use when a conclusion feels obvious, when debugging why two people see the same facts differently, when \"clearly\" or \"obviously\" appears in reasoning, or when tracing how a belief was formed from raw data. Applies Chris Argyris's Ladder of Inference."
 ---
 
 # Ladder of Inference

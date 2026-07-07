@@ -1,6 +1,6 @@
 ---
 name: blind-steelman
-description: Use when disagreeing with a position, dismissing an alternative approach, writing a comparison or decision record, or when an opposing view seems obviously wrong. Applies steelmanning and Bryan Caplan's Ideological Turing Test — you understand a position only when its holders would accept your statement of it.
+description: "Use when disagreeing with a position, dismissing an alternative approach, writing a comparison or decision record, or when an opposing view seems obviously wrong. Applies steelmanning and Bryan Caplan's Ideological Turing Test — you understand a position only when its holders would accept your statement of it."
 ---
 
 # Steelman / Ideological Turing Test

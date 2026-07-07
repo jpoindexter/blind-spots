@@ -1,6 +1,6 @@
 ---
 name: blind-survivorship-bias
-description: Use when analyzing metrics, user feedback, success stories, benchmarks, churn, error logs, or any dataset — before drawing conclusions. Applies Abraham Wald's WWII bomber insight: the data you have was filtered by a survival process, and the filter is the finding.
+description: "Use when analyzing metrics, user feedback, success stories, benchmarks, churn, error logs, or any dataset — before drawing conclusions. Applies Abraham Wald's WWII bomber insight: the data you have was filtered by a survival process, and the filter is the finding."
 ---
 
 # Survivorship Bias

@@ -1,6 +1,6 @@
 ---
 name: blind
-description: Use when the user invokes /blind, asks "what am I missing", "what are my blind spots", "poke holes in this", "what could go wrong", or before committing to a plan, decision, architecture, launch, or estimate. Dispatcher that runs a structured blind-spot audit using the companion blind-* framework skills.
+description: "Use when the user invokes /blind, asks \"what am I missing\", \"what are my blind spots\", \"poke holes in this\", \"what could go wrong\", or before committing to a plan, decision, architecture, launch, or estimate. Dispatcher that runs a structured blind-spot audit using the companion blind-* framework skills."
 ---
 
 # Blind — Blind-Spot Audit Dispatcher

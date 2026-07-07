@@ -1,6 +1,6 @@
 ---
 name: blind-outside-view
-description: Use when making any estimate, forecast, deadline, budget, or "how long will this take" judgment, or when a plan's success case is built from its own specifics. Applies Kahneman & Lovallo's outside view / reference class forecasting against the planning fallacy.
+description: "Use when making any estimate, forecast, deadline, budget, or \"how long will this take\" judgment, or when a plan's success case is built from its own specifics. Applies Kahneman & Lovallo's outside view / reference class forecasting against the planning fallacy."
 ---
 
 # Outside View

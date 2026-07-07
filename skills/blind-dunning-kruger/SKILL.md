@@ -1,6 +1,6 @@
 ---
 name: blind-dunning-kruger
-description: Use when operating in an unfamiliar domain, when something "looks right" but hasn't been verified, when confidence is high without external checks, or when evaluating one's own competence at a task. Applies Kruger & Dunning (1999) — the skills needed to perform are the skills needed to judge performance.
+description: "Use when operating in an unfamiliar domain, when something \"looks right\" but hasn't been verified, when confidence is high without external checks, or when evaluating one's own competence at a task. Applies Kruger & Dunning (1999) — the skills needed to perform are the skills needed to judge performance."
 ---
 
 # Dunning-Kruger — The Double Curse
