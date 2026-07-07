@@ -1,6 +1,6 @@
 ---
 name: blind
-description: "Use when the user invokes /blind, asks \"what am I missing\", \"what are my blind spots\", \"poke holes in this\", \"what could go wrong\", or before committing to a plan, decision, architecture, launch, or estimate. Dispatcher that runs a structured blind-spot audit using the companion blind-* framework skills."
+description: "Use when the user invokes /blind (full sweep of all frameworks against the current context) or /blind quick (routed 2-4 framework pass), asks \"what am I missing\", \"what are my blind spots\", \"poke holes in this\", \"what could go wrong\", or before committing to a plan, decision, architecture, launch, or estimate. Dispatcher that runs a structured blind-spot audit using the companion blind-* framework skills."
 ---
 
 # Blind — Blind-Spot Audit Dispatcher
@@ -13,13 +13,23 @@ You cannot see your own blind spots by introspecting harder — that is what mak
 
 ## How to Run an Audit
 
-1. **Classify the target** — what is being audited?
-2. **Pick 2–4 frameworks** from the routing table (never all; depth beats coverage). Rows list frameworks in priority order — apply the first ones first. A single-framework row (e.g. Chesterton's Fence) may run alone; the 2–4 rule caps, it doesn't force padding. Target matches multiple rows → use the row for the *primary object* (a plan with a deadline is still a plan), then pull one framework from the secondary row if it isn't already covered.
-3. **Load each routed skill and follow its procedure** — via the Skill tool where installed, else read its SKILL.md from this skill set. The dispatcher carries no framework procedures itself; do not improvise a framework from memory. Routed skill unavailable → say so in the Residual and substitute the nearest row-mate.
-4. **Report findings ranked by severity** = expected damage × plausibility (premortem's rubric, applied audit-wide), each tagged with the framework that surfaced it.
-5. **End with the residual**: what the audit could NOT check (that list is itself a finding).
+**Resolve the target first**: an explicit argument if given; otherwise the active work in the current conversation (the plan/code/decision most recently under discussion). State the resolved target in one line before auditing.
 
-## Routing Table
+### Default mode — full sweep (bare `/blind` or `/blind <target>`)
+
+Run **ALL 16 companion blind-* framework skills** against the target.
+
+1. **Fan out in parallel where the agent supports subagents** (e.g. the Agent tool): one subagent per framework, each given (a) the full text of that framework's SKILL.md, (b) the target, (c) the instruction to return only evidence-backed findings or an explicit "no finding". This keeps coverage from costing depth. No subagent support → run the frameworks sequentially yourself; do not skip any.
+2. **Load each skill's actual procedure** — via the Skill tool where installed, else read its SKILL.md from this skill set. The dispatcher carries no framework procedures itself; do not improvise a framework from memory. A framework unavailable → name it in the Residual.
+3. **Merge and dedupe**: the same blind spot surfaced by several frameworks is ONE finding tagged with all of them (convergence raises its severity).
+4. **Report findings ranked by severity** = expected damage × plausibility (premortem's rubric, applied audit-wide).
+5. **End with the residual**: what the audit could NOT check (that list is itself a finding). Frameworks that returned "no finding" are listed there in one line — a null from a self-directed audit is weak evidence, not clearance.
+
+### Quick mode — `/blind quick <target>`
+
+Time-boxed pass: pick 2–4 frameworks from the routing table below (rows list frameworks in priority order; a single-framework row may run alone — the 2–4 rule caps, it doesn't force padding; target matches multiple rows → use the row for the *primary object*, then pull one framework from the secondary row). Steps 2–5 as above.
+
+## Routing Table (quick mode)
 
 | Target | Frameworks (in order) |
 |---|---|
@@ -34,7 +44,7 @@ You cannot see your own blind spots by introspecting harder — that is what mak
 | Docs / teaching / API design / UX copy | blind-curse-of-knowledge |
 | Reasoning chain / "obviously X" | blind-ladder-of-inference |
 
-Ambiguous target → default to blind-premortem + blind-inversion + blind-unknown-unknowns.
+Ambiguous target in quick mode → default to blind-premortem + blind-inversion + blind-unknown-unknowns, or escalate to the full sweep.
 
 ## Output Format
 

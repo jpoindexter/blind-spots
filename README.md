@@ -6,11 +6,12 @@ The premise (Pronin's introspection illusion, Dunning's self-insight research): 
 
 ## The `/blind` command
 
-`blind` is the dispatcher. Invoke it on any plan, decision, belief, estimate, dataset, or argument and it routes to 2–4 of the framework skills below, runs them deeply, and reports severity-ranked findings **plus the residual — what the audit could not check**.
+`blind` is the dispatcher. Bare `/blind` runs a **full sweep — all 16 framework skills** against whatever is in context (fanned out as parallel subagents where the agent supports them), merges converging findings, and reports them severity-ranked **plus the residual — what the audit could not check**. `/blind quick <target>` is the time-boxed alternative: 2–4 frameworks picked by routing table.
 
 ```
-/blind this migration plan
-/blind — what am I missing in this pricing decision?
+/blind                          # full sweep against the current work
+/blind this migration plan      # full sweep against a named target
+/blind quick this estimate      # routed 2–4 framework pass
 ```
 
 ## The skills
