@@ -62,6 +62,12 @@ cp -R blind-spots/skills/* ~/.agents/skills/
 
 Each skill is a folder containing a single self-contained `SKILL.md` with YAML frontmatter (`name`, `description`) per the [Agent Skills specification](https://agentskills.io/specification). Copy the folders wherever your agent discovers skills, or paste a SKILL.md body directly into a system prompt.
 
+## Verification status
+
+- **Install path executed, not assumed**: `npx skills add` run against this repo — 17/17 skills found and installed (strict-YAML frontmatter validated with PyYAML; an earlier version lost 6 skills to unquoted colons in descriptions).
+- **Behavior-tested**: the `blind` dispatcher and a 3-skill sample (falsification, outside-view, chestertons-fence) were run by fresh agents against realistic scenarios; the gaps they hit (routing tie-breaks, severity rubric, no-history fallback) are fixed in the current version.
+- **Citations under external fact-check**: every named study and numeric figure is being verified against primary sources; corrections land as individual commits.
+
 ## Design notes
 
 - **One framework per skill**, named and cited — no folk wisdom, no invented acronyms.

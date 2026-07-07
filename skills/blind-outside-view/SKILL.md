@@ -21,7 +21,7 @@ The blind spot: "this case is different" feels true for *every* case, which is e
 ## The Procedure (Reference Class Forecasting)
 
 1. **Pick the reference class**: projects/tasks like this one, done by people like the doer — not by you-on-your-best-day. ("Auth system migrations at small teams", not "this migration".)
-2. **Get the distribution**: what's the typical outcome, the spread, the failure rate? Use your own history first (git log, past estimates vs. actuals, ERRORS.md-style records) — past-self is the closest reference class.
+2. **Get the distribution**: what's the typical outcome, the spread, the failure rate? Use your own history first (git log, past estimates vs. actuals, ERRORS.md-style records) — past-self is the closest reference class. **No records?** Fall back in order: (a) ask the person whose task it is for their last 3 comparable actuals; (b) published base rates for the task type (software tasks: actuals routinely land at 2–3× the step-sum estimate — Flyvbjerg's cost-overrun distributions, standup folklore made measurable); (c) if neither exists, apply the 2–3× multiplier as an explicit default prior and label it as such — a labeled prior beats an unanchored gut number.
 3. **Anchor on the base rate**, then adjust for specifics *sparingly* — only for verified, unusual facts, and less than feels right.
 4. **Report a range, not a point** (best / realistic / worst), with the realistic case at the reference-class typical — not at your scenario's smooth path.
 

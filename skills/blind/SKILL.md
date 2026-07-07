@@ -14,9 +14,9 @@ You cannot see your own blind spots by introspecting harder — that is what mak
 ## How to Run an Audit
 
 1. **Classify the target** — what is being audited?
-2. **Pick 2–4 frameworks** from the routing table (never all; depth beats coverage).
-3. **Invoke each companion skill** and apply it to the target.
-4. **Report findings ranked by severity**, each tagged with the framework that surfaced it.
+2. **Pick 2–4 frameworks** from the routing table (never all; depth beats coverage). Rows list frameworks in priority order — apply the first ones first. A single-framework row (e.g. Chesterton's Fence) may run alone; the 2–4 rule caps, it doesn't force padding. Target matches multiple rows → use the row for the *primary object* (a plan with a deadline is still a plan), then pull one framework from the secondary row if it isn't already covered.
+3. **Load each routed skill and follow its procedure** — via the Skill tool where installed, else read its SKILL.md from this skill set. The dispatcher carries no framework procedures itself; do not improvise a framework from memory. Routed skill unavailable → say so in the Residual and substitute the nearest row-mate.
+4. **Report findings ranked by severity** = expected damage × plausibility (premortem's rubric, applied audit-wide), each tagged with the framework that surfaced it.
 5. **End with the residual**: what the audit could NOT check (that list is itself a finding).
 
 ## Routing Table
@@ -43,7 +43,9 @@ Ambiguous target → default to blind-premortem + blind-inversion + blind-unknow
 Frameworks applied: [list]
 
 ### Findings (severity-ranked)
-1. [finding] — via [framework]. Evidence: [...]. Mitigation: [...]
+1. **[finding]** — via [framework].
+   Evidence: [...]
+   Mitigation: [...]
 
 ### Residual (what this audit could not see)
 - [unchecked assumption / missing data / voice not in the room]
