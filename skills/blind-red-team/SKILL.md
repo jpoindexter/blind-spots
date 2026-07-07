@@ -1,13 +1,13 @@
 ---
 name: blind-red-team
-description: "Use when a group or a single reasoner has reached consensus quickly, when reviewing a plan everyone likes, when unanimous agreement appears, or when security/robustness of a design must be tested. Applies institutionalized dissent — red teaming, devil's advocacy, and the Israeli \"tenth man\" doctrine."
+description: "Use when a group or a single reasoner has reached consensus quickly, when reviewing a plan everyone likes, when unanimous agreement appears, or when security/robustness of a design must be tested. Applies institutionalized dissent — red teaming, devil's advocacy, and Israel's post-1973 \"Ipcha Mistabra\" unit (the real version of the pop-culture \"tenth man rule\")."
 ---
 
-# Red Team / Tenth Man
+# Red Team / Ipcha Mistabra
 
 ## Overview
 
-Consensus is a blind-spot amplifier: Janis's groupthink studies (1972) showed cohesive groups suppress dissent precisely when stakes are highest. The fix is not "be more open-minded" — it's **structural**: assign someone the *job* of attacking the position. Origins: the Vatican's advocatus diaboli (1587), military red teams, and the Israeli intelligence "tenth man" doctrine post-Yom Kippur 1973 — if nine agree, the tenth is *obligated* to argue the contrary, because unanimity itself is evidence of a selection failure somewhere.
+Consensus is a blind-spot amplifier: Janis's groupthink studies (*Victims of Groupthink*, 1972) showed cohesive groups suppress dissent precisely when stakes are highest. The fix is not "be more open-minded" — it's **structural**: assign someone the *job* of attacking the position. Origins: the Vatican's advocatus diaboli (formalized by Sixtus V, 1587), military red teams, and — after the 1973 Yom Kippur intelligence failure — AMAN's institutional devil's-advocate office "**Ipcha Mistabra**" (Aramaic: "the opposite is probable"), mandated to challenge the consensus assessment, because unanimity itself is evidence of a selection failure somewhere. (The pop-culture "tenth man rule" — nine agree, the tenth must dissent — is the fictionalized version from *World War Z*, 2013; the real mechanism is the standing dissent office.)
 
 **Dissent must be a role, not a personality trait — roles survive social pressure; volunteers don't.**
 
@@ -32,7 +32,7 @@ Spawn a genuinely separate pass (subagent, second model, or a fresh session with
 
 ## Common Mistakes
 
-- Rotating devil's advocacy as a token ritual where the advocate performs mild objections everyone rebuts — Nemeth (2001): *authentic* dissent stimulates better thinking; performed dissent doesn't. The advocate needs real license and real stakes.
+- Rotating devil's advocacy as a token ritual where the advocate performs mild objections everyone rebuts — Nemeth, Brown & Rogers (2001, *EJSP*): *authentic* dissent stimulates better thinking; performed dissent doesn't. The advocate needs real license and real stakes.
 - Red-teaming once, patching, and not re-attacking the patch.
 - Letting the plan's author play their own red team with full context — that tests memory, not the plan.
-- Treating unanimous agreement as strength. Under the tenth-man doctrine it's a trigger condition.
+- Treating unanimous agreement as strength. For Ipcha Mistabra it's a trigger condition.

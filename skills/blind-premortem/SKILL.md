@@ -7,7 +7,7 @@ description: "Use before committing to a plan, launch, migration, deploy, estima
 
 ## Overview
 
-Gary Klein (2007, *HBR*): before executing a plan, announce "**it is [future date]; the plan failed completely — spectacularly**. Take 3 minutes and write the history of that failure." This is prospective hindsight: Mitchell, Russo & Pennington (1989) found that assuming an outcome is *certain* (not merely possible) increases the ability to generate correct reasons for it by ~30%. It also legitimizes dissent — the confident room is now being asked FOR failure stories, so raising one is contribution, not disloyalty.
+Gary Klein (2007, *HBR*): before executing a plan, announce "**it is [future date]; the plan failed completely — spectacularly**. Take 3 minutes and write the history of that failure." This is prospective hindsight: Mitchell, Russo & Pennington (1989) found that framing an outcome as *certain* (not merely possible) increases the number of reasons people generate for it by ~30% (the study measured quantity, not correctness — the "richer explanations" gloss is Klein's). It also legitimizes dissent — the confident room is now being asked FOR failure stories, so raising one is contribution, not disloyalty.
 
 **"What could go wrong?" invites optimism. "It went wrong — why?" invites memory.**
 

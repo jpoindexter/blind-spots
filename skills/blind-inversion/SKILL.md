@@ -7,7 +7,7 @@ description: "Use when a problem is stuck when approached directly, when definin
 
 ## Overview
 
-Carl Gustav Jacobi's maxim "*man muss immer umkehren*" (invert, always invert), operationalized by Charlie Munger: many problems are easier solved backward. Instead of "how do I achieve X?", ask "**what would guarantee NOT-X — and how do I avoid all of that?**" Munger: "All I want to know is where I'm going to die, so I'll never go there." Forward thinking samples from paths to success (huge, fuzzy space); inversion enumerates paths to failure (smaller, sharper space) — and failure paths are where blind spots hide, because nobody was looking there.
+"*Man muss immer umkehren*" (invert, always invert) — attributed to Carl Gustav Jacobi (earliest print appearance is Van Vleck, 1916, already as "is said to have"; plausible folklore, fitting for the man who inverted elliptic integrals) and operationalized by Charlie Munger: many problems are easier solved backward. Instead of "how do I achieve X?", ask "**what would guarantee NOT-X — and how do I avoid all of that?**" Munger: "All I want to know is where I'm going to die, so I'll never go there." Forward thinking samples from paths to success (huge, fuzzy space); inversion enumerates paths to failure (smaller, sharper space) — and failure paths are where blind spots hide, because nobody was looking there.
 
 ## When to Use
 

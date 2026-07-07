@@ -7,7 +7,7 @@ description: "Use when analyzing metrics, user feedback, success stories, benchm
 
 ## Overview
 
-Abraham Wald (Statistical Research Group, WWII): commanders wanted to armor bombers where returning planes showed bullet holes. Wald inverted it — **the returning planes survived those hits; armor where the survivors are clean**, because planes hit there never came back. The holes you can see mark the survivable damage. The dataset "planes we can inspect" was silently filtered by the very outcome under study.
+Abraham Wald (Statistical Research Group memoranda, 1943; exposited in Mangel & Samaniego, *JASA* 1984): estimating aircraft vulnerability from returning planes is wrong unless you account for the planes that never came back — **the returning planes survived their hits; the unhit areas on survivors mark where hits were fatal**. (The vivid scene of commanders wanting to armor the bullet holes is a later retelling, via Wallis's 1980 memoir and Ellenberg — not in Wald's papers — but it dramatizes his math faithfully.) The dataset "planes we can inspect" was silently filtered by the very outcome under study.
 
 **Every dataset arrived through a filter. Analyzing the data without modeling the filter analyzes the survivors, not the population.**
 

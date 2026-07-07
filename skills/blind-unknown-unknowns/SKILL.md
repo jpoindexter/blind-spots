@@ -1,13 +1,13 @@
 ---
 name: blind-unknown-unknowns
-description: "Use when scoping a project, entering an unfamiliar domain, writing a risk register, estimating novel work, or when a plan lists only risks the planner already thought of. Applies the knowledge matrix (known/unknown × known/unknown) popularized via Rumsfeld 2002, rooted in the Johari Window."
+description: "Use when scoping a project, entering an unfamiliar domain, writing a risk register, estimating novel work, or when a plan lists only risks the planner already thought of. Applies the knowledge matrix (known/unknown × known/unknown) from 1960s aerospace risk practice, popularized via Rumsfeld 2002."
 ---
 
 # Unknown Unknowns
 
 ## Overview
 
-The knowledge matrix (roots in Luft & Ingham's Johari Window, 1955; made famous by Rumsfeld, 2002; standard in NASA/PM risk practice):
+The knowledge matrix (1960s aerospace/defense risk practice — "unk-unks", documented from 1968, common at NASA; made famous by Rumsfeld's February 2002 briefing, who credited NASA's William Graham; the Johari Window of Luft & Ingham, 1955, is an analogous, independently developed 2×2):
 
 | | We know it | We don't know it |
 |---|---|---|

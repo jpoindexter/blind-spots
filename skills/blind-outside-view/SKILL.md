@@ -7,7 +7,7 @@ description: "Use when making any estimate, forecast, deadline, budget, or \"how
 
 ## Overview
 
-Kahneman & Lovallo (1993, *Management Science*); Kahneman & Tversky's planning fallacy (1979); operationalized as Reference Class Forecasting (Flyvbjerg, 2006, mandated for UK/Danish megaprojects). The **inside view** builds a forecast from the case's specifics — your plan, your steps, your skill — and systematically fails, because the specifics you can see exclude the disruptions you can't (the unknown unknowns are, by construction, not in your scenario). The **outside view** ignores the specifics and asks: **what happened to everyone else who did roughly this?**
+Kahneman & Lovallo (1993, *Management Science*); Kahneman & Tversky's planning fallacy (1979); operationalized as Reference Class Forecasting (Flyvbjerg, 2006; mandatory for large UK transport projects since 2004 via HM Treasury/DfT, with Denmark following in 2006–08). The **inside view** builds a forecast from the case's specifics — your plan, your steps, your skill — and systematically fails, because the specifics you can see exclude the disruptions you can't (the unknown unknowns are, by construction, not in your scenario). The **outside view** ignores the specifics and asks: **what happened to everyone else who did roughly this?**
 
 The blind spot: "this case is different" feels true for *every* case, which is exactly why base rates beat scenarios.
 

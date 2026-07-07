@@ -7,7 +7,7 @@ description: "Use when a conclusion feels obvious, when debugging why two people
 
 ## Overview
 
-Chris Argyris (Harvard, 1970s; popularized in Senge's *The Fifth Discipline*): between raw observable data and the action you take, you climb an invisible ladder —
+Chris Argyris (first published form: *Reasoning, Learning, and Action*, 1982; the familiar 7-rung version popularized in *The Fifth Discipline Fieldbook*, Senge, Ross et al., 1994): between raw observable data and the action you take, you climb an invisible ladder —
 
 1. Observable data (everything available)
 2. **Selected** data (what you noticed)

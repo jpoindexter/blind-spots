@@ -21,16 +21,16 @@ The premise (Pronin's introspection illusion, Dunning's self-insight research): 
 | `blind-johari-window` | Johari Window | Luft & Ingham, 1955 |
 | `blind-dunning-kruger` | Double curse of incompetence | Kruger & Dunning, 1999 |
 | `blind-bias-blind-spot` | Bias blind spot / introspection illusion | Pronin, Lin & Ross, 2002 |
-| `blind-ladder-of-inference` | Ladder of Inference | Argyris, 1970s |
+| `blind-ladder-of-inference` | Ladder of Inference | Argyris, 1982; Senge & Ross, 1994 |
 | `blind-premortem` | Premortem / prospective hindsight | Klein, 2007; Mitchell et al., 1989 |
 | `blind-inversion` | Inversion | Jacobi; Munger |
 | `blind-outside-view` | Reference class forecasting | Kahneman & Lovallo, 1993; Flyvbjerg, 2006 |
-| `blind-red-team` | Red team / tenth man doctrine | Janis, 1972; IDF post-1973 |
+| `blind-red-team` | Red team / institutionalized dissent | Janis, 1972; AMAN "Ipcha Mistabra", post-1973 |
 | `blind-consider-the-opposite` | Consider-the-opposite debiasing | Lord, Lepper & Preston, 1984 |
 | `blind-falsification` | Falsificationism / 2-4-6 task | Popper, 1934; Wason, 1960 |
 | `blind-survivorship-bias` | Survivorship bias | Wald, WWII SRG |
 | `blind-chestertons-fence` | Chesterton's Fence | Chesterton, 1929 |
-| `blind-unknown-unknowns` | Knowledge matrix | Johari-derived; Rumsfeld, 2002 |
+| `blind-unknown-unknowns` | Knowledge matrix | 1960s aerospace "unk-unks"; Rumsfeld, 2002 |
 | `blind-steelman` | Steelmanning / Ideological Turing Test | Caplan, 2011 |
 | `blind-curse-of-knowledge` | Curse of knowledge / tappers & listeners | Camerer et al., 1989; Newton, 1990 |
 | `blind-calibration` | Overconfidence calibration | Lichtenstein & Fischhoff, 1982; Alpert & Raiffa |
